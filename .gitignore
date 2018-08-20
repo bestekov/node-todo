@@ -1,0 +1,16 @@
+
+*.log
+.nyc_output
+.vscode
+.test-results
+.test-results.json
+coverage
+coverage-summary.json
+docs
+lcov-report
+lcov.info
+lib
+node_modules
+secrets.*
+test-results
+test-results.xml
