@@ -1,0 +1,23 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "description": "Sample node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestekov/node-todo.git"
+  },
+  "author": "Owen Beste",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bestekov/node-todo/issues"
+  },
+  "homepage": "https://github.com/bestekov/node-todo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
+}
