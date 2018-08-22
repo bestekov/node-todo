@@ -4,6 +4,7 @@
 .vscode
 .test-results
 .test-results.json
+config.json
 coverage
 coverage-summary.json
 docs
