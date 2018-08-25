@@ -28,7 +28,7 @@ module.exports = function(app) {
 
     app.post( '/api/todo', function( req, res ) {
         
-        const data = res.body;
+        const data = req.body;
         console.log(data);
         if( data.id ) {
             Todos.findByIdAndUpdate( data.id, {
