@@ -17,12 +17,13 @@
   },
   "homepage": "https://github.com/bestekov/node-todo#readme",
   "dependencies": {
-    "express": "^4.16.3"
-  },
-  "devDependencies": {
+    "express": "^4.16.3",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "eslint": "^5.4.0",
     "mongoose": "^5.2.9"
+  },
+  "devDependencies": {
+
   }
 }
