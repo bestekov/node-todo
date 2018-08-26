@@ -1,3 +1,9 @@
+
+# NOTE #
+There were a number of differences between the current Angular version and the 
+one used in the course. Therefore I did not finish building it out, but the API
+portion will work if you have a mongdb set up.
+
 # Node-todo #
 
 Sample node app built as part of the Understand Node udemy course found at: https://www.udemy.com/understand-nodejs/
